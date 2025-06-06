@@ -117,6 +117,9 @@ export default {
                     <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
+                    <p>
+                        Levels that are botted in over 360fps will not be allowed.
+                    </p>
                 </div>
             </div>
         </main>
